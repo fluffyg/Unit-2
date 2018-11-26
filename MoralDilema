@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Unit 3 website</title>
+</head>
+<body>
+
+<h1>Hackers Dilema</h1>
+<p>You have the ability to hack into the school computer system. You can change people’s grades. Would you change your own? Why or why not? What if you could change the grade for a basketball player who has a scholarship to play for a big university?
+
+</p>
+<figure>
+  <img src="anon.jpg" alt="Anonymous Man" style="width:100%">
+  <figcaption>Fill something in here.</figcaption>
+</figure>
+</body>
+</html>
